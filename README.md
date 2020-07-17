@@ -8,10 +8,10 @@ Une stabilisation active sera amenée grâce à des empennages amovibles et un m
 Un seul moteur ne pouvant effectuer de correction de roulis, c’est donc les empennages qui auront ce rôle et le moteur effectuera les corrections de tangage et de lacet.
 
 ## Platine d'essai
-![alt platine d'essai](https://github.com/MonsterPoney/S.A.S.A/blob/master/Rapport/Figure_4_-_Platine_d_essai.png?raw=true)
+![alt platine d'essai](https://github.com/MonsterPoney/S.A.S.A/blob/master/Rapport//Figure%204%20-%20Platine%20d'essai.png?raw=true)
 
 ## Exemple de diagramme de temps
 ![alt diagramme de temps](https://github.com/MonsterPoney/S.A.S.A/blob/master/Rapport/Timing_Diagram.jpg?raw=true)
 
 ## Organigramme de programmation initial
-![alt Organigramme de programmation](https://github.com/MonsterPoney/S.A.S.A/blob/master/Rapport/Flowchart_S.A.S.A.png?raw=true)
+![alt Organigramme de programmation](https://github.com/MonsterPoney/S.A.S.A/blob/master/Rapport/Flowchart%20S.A.S.A.png?raw=true)
